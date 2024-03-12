@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/haolam05/haolam05/assets/71291057/5f85b21a-32b8-4d2c-917f-6fd79be6a2de)
 
-# About Me
-Hi,
+# 🧑‍💻 About Me
+
 
 # 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hao-lam-378065196/)
