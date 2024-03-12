@@ -1,6 +1,7 @@
-![github-header-image (2)](https://github.com/haolam05/haolam05/assets/71291057/0a60ae91-236c-46c4-8f98-0bedfe8e88e0)
+![github-header-image](https://github.com/haolam05/haolam05/assets/71291057/5f85b21a-32b8-4d2c-917f-6fd79be6a2de)
 
 # Tech Stack
+
 _Technologies that I used in various projects during my learning journey!_
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
