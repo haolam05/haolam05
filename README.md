@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/haolam05/haolam05/assets/71291057/5f85b21a-32b8-4d2c-917f-6fd79be6a2de)
 
-# 🧑‍💻 About Me
-
+# 👨‍💻 About Me
+Hello there! If you're reading this, chances are you're looking for someone who can code up a storm and tackle any challenge that comes their way. Well, look no further! I'm a versatile software engineer with a comprehensive skill set in both computer science and electrical engineering. Whether it's front-end, back-end, or game development, I've got you covered. I love diving into cutting-edge technology and learning new skills. In fact, I'm always on the lookout for my next exciting project. So, if you're interested in discussing how we can work together to make something awesome, let's chat!
 
 # 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hao-lam-378065196/)
