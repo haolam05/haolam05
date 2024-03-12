@@ -82,7 +82,7 @@ _Technologies that I used in various projects during my learning journey!_
 ![Static Badge](https://img.shields.io/badge/Rubygems-black?logo=rubygems)
 ![Static Badge](https://img.shields.io/badge/SQLAlchemy-white?logo=sqlalchemy&logoColor=blue)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=haolam05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haolam05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haolam05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
