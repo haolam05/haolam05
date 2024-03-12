@@ -1,6 +1,14 @@
 ![github-header-image](https://github.com/haolam05/haolam05/assets/71291057/5f85b21a-32b8-4d2c-917f-6fd79be6a2de)
 
-# Tech Stack
+# About Me
+Hi,
+
+# 🌐 Social
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hao-lam-378065196/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/tuonghao2001@gmail.com-gray?logoColor=white)
+
+# 💻 Tech Stack
 
 _Technologies that I used in various projects during my learning journey!_
 
