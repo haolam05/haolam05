@@ -1,4 +1,4 @@
-# Hao Lam
+![github-header-image (3)](https://github.com/haolam05/haolam05/assets/71291057/4a59208a-1dd9-4164-bdc5-5ef3f3602e46)
 
 # Tech Stack
 _Technologies that I used in various projects during my learning journey!_
