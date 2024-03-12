@@ -99,5 +99,7 @@ _Technologies that I used in various projects during my learning journey!_
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+[![](https://visitcount.itsvg.in/api?id=haolam05&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=haolam05&icon=0&color=0)](https://visitcount.itsvg.in)
