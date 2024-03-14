@@ -77,6 +77,7 @@ _Technologies that I used in various projects during my learning journey!_
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Google%20Map%20API-white?logo=google%20maps&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/chai-green?logo=chai&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Rubygems-black?logo=rubygems)
