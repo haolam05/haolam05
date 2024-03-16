@@ -4,6 +4,7 @@
 Hello there! If you're reading this, chances are you're looking for someone who can code up a storm and tackle any challenge that comes their way. Well, look no further! I'm a versatile software engineer with a comprehensive skill set in both computer science and electrical engineering. Whether it's front-end, back-end, or game development, I've got you covered. I love diving into cutting-edge technology and learning new skills. In fact, I'm always on the lookout for my next exciting project. So, if you're interested in discussing how we can work together to make something awesome, let's chat!
 
 # 🌐 Social
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://haolam05.haolam.codes/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hao-lam-378065196/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
 ![Gmail](https://img.shields.io/badge/tuonghao2001@gmail.com-gray?logoColor=white)
