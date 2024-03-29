@@ -84,6 +84,9 @@ _Technologies that I used in various projects during my learning journey!_
 ![Static Badge](https://img.shields.io/badge/Rubygems-black?logo=rubygems)
 ![Static Badge](https://img.shields.io/badge/SQLAlchemy-white?logo=sqlalchemy&logoColor=blue)
 
+# 📈 Leetcode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/haolam05?ext=activity)](https://leetcode.com/JacobLinCool)
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=haolam05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haolam05&theme=dark&hide_border=false)<br/>
