@@ -87,6 +87,8 @@ _Technologies that I used in various projects during my learning journey!_
 # 📈 Leetcode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/haolam05?ext=activity)](https://leetcode.com/JacobLinCool)
 
+[![Codewars](https://github.r2v.ch/codewars?user=haolam05&stroke=%23ffffff&top_languages=true&theme=midnight_purple)](https://www.codewars.com/users/haolam05)
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=haolam05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haolam05&theme=dark&hide_border=false)<br/>
