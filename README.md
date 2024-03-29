@@ -85,7 +85,7 @@ _Technologies that I used in various projects during my learning journey!_
 ![Static Badge](https://img.shields.io/badge/SQLAlchemy-white?logo=sqlalchemy&logoColor=blue)
 
 # 📈 Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/haolam05?ext=activity)](https://leetcode.com/JacobLinCool)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/haolam05?ext=activity)](https://leetcode.com/haolam05)
 
 # ⚡️ Codewars Stats
 [![Codewars](https://github.r2v.ch/codewars?user=haolam05&stroke=%23ffffff&top_languages=true&theme=nightowl)](https://www.codewars.com/users/haolam05)
