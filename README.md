@@ -8,6 +8,7 @@ Hello there! If you're reading this, chances are you're looking for someone who 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hao-lam-378065196/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
 ![Gmail](https://img.shields.io/badge/tuonghao2001@gmail.com-gray?logoColor=white)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCiQKlav40HF2KaB7WCF7gVQ)
 
 # 💻 Tech Stack
 
