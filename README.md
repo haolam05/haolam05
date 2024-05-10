@@ -93,13 +93,6 @@ _Technologies that I used in various projects during my learning journey!_
 | **MiniMeetup** <br> ![image](./demo/venues%20view.gif) | [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white)](https://meetup-tzx9.onrender.com/) <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/haolam05/Meetup) | Inspired by the success of Meetup, MiniMeetup aims to replicate its community-building capabilities while emphasizing on providing a simple interface that prioritize user experience and accessibility. MiniMeetup ensures that the users can easily navigate the platform, discover events, and connect with others in their local communities without encountering unnecessary complexities. | ✅ Member <br> ✅ Group <br> ✅ Event <br> ✅ Venue <br> ✅ Live Chat <br> ✅ Google Map <br> ✅ Roles <br> ✅ Searchbox <br> ✅ Pagination ✅ Gallery <br> | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white) <br> ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB) <br> ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) <br> ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white) <br> ![Static Badge](https://img.shields.io/badge/Google%20Map%20API-white?logo=google%20maps&logoColor=green) <br> ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white) <br> ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) <br> ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?logo=reacthookform&logoColor=white) <br> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) <br> |
 | **BoomOnline** <br> ![demo-level-14](https://github.com/haolam05/Boom-Online/assets/71291057/2565b5e3-3fa2-45c6-8468-4297942c95e1) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/haolam05/Boom-Online) | Welcome to 'Boom Adventure' – a Ruby-powered game that revives the classic 'Boom Online' experience with a fresh twist. Dive into solo battles, intense 1v1 duels, or team up to take on challenging bosses across 16 thrilling levels. Pause for strategic planning, groove to cool tunes, and choose from a variety of vibrant balloons and characters. With seamless gameplay and dynamic challenges, 'Boom Adventure' guarantees endless fun for all players! | ✅ Player <br> ✅ Solo <br> ✅ Team <br> ✅ Booms <br> ✅ Effects <br> ✅ Sound <br> ✅ Timer <br> ✅ Bosses <br> ✅ Special skills | ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?logo=ruby&logoColor=white) <br> ![Static Badge](https://img.shields.io/badge/Rubygems-black?logo=rubygems) <br> |
 
-
-# 📈 Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/haolam05?ext=activity)](https://leetcode.com/haolam05)
-
-# ⚡️ Codewars Stats
-[![Codewars](https://github.r2v.ch/codewars?user=haolam05&stroke=%23ffffff&top_languages=true&theme=nightowl)](https://www.codewars.com/users/haolam05)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haolam05&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haolam05&theme=dark&hide_border=false)<br/>
@@ -113,6 +106,12 @@ _Technologies that I used in various projects during my learning journey!_
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=haolam05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+# 📈 Leetcode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/haolam05?ext=activity)](https://leetcode.com/haolam05)
+
+# ⚡️ Codewars Stats
+[![Codewars](https://github.r2v.ch/codewars?user=haolam05&stroke=%23ffffff&top_languages=true&theme=nightowl)](https://www.codewars.com/users/haolam05)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=haolam05&icon=0&color=0)](https://visitcount.itsvg.in)
