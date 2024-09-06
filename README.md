@@ -109,6 +109,7 @@ _Technologies that I used in various projects during my learning journey!_
 
 # 📈 Leetcode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/haolam05?ext=activity)](https://leetcode.com/haolam05)
+[![Leetcode](https://leetcode-badge-showcase.vercel.app/api?username=haolam05&theme=dark&border=border&animated=true)](https://leetcode.com/u/haolam05/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=haolam05&icon=0&color=0)](https://visitcount.itsvg.in)
