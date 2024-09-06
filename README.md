@@ -15,6 +15,15 @@ Hello there! If you're reading this, chances are you're looking for someone who 
 
 _Technologies that I used in various projects during my learning journey!_
 
+![Swift](https://img.shields.io/badge/Swift-F05138.svg?logo=Swift&logoColor=white)
+![XCode](https://img.shields.io/badge/Xcode-147EFB.svg?logo=Xcode&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000.svg?logo=iOS&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?logo=Jenkins&logoColor=white)
+![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC.svg?logo=Sourcetree&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?logo=Jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?logo=Bitbucket&logoColor=white)
+![Cocoapods](https://img.shields.io/badge/CocoaPods-EE3322.svg?logo=CocoaPods&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=Figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
